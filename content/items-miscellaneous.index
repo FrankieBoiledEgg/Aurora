@@ -4,7 +4,7 @@
 		<name>Companions of Sildar</name>
 		<description>Additional content from the Companions of Sildar</description>
 		<author url="https://github.com/FrankieBoiledEgg">FrankieBoiledEgg</author>
-		<update version="0.1.0">
+		<update version="0.1.1">
 			<file name="items-miscellaneous.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/items-miscellaneous.index" />
 		</update>
 	</info>
