@@ -20,6 +20,18 @@
             <set name="stackable">true</set>
         </setters>
     </element>
+    <!--Ammunition-->
+    <element name="Poison Tipped Arrow" type="Item" source="Companions of Sildar" id="ID_FBE_COS_ITEM_POISON-ARROW">
+        <description>
+            <p>Arrow dipped in poison, on hit, the target must make a DC 10 Constitution saving throw or take an extra 1d4 poison damage on hit</p>
+        </description>
+        <setters>
+            <set name="category">Ammunition</set>
+            <set name="cost" currency="gp">1</set>
+            <set name="weight" lb="0.05">1/20 lb</set>
+            <set name="stackable">true</set>
+        </setters>
+    </element>
     <!--TEMPLATE
     <element name="XXXXX" type="Item" source="Companions of Sildar" id="ID_FBE_COS_ITEM_XXXXX">
         <description>
