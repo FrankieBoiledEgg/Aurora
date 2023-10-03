@@ -9,6 +9,8 @@
 		</update>
 	</info>
 	<files>
+		<file name="monster-loot.xml" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/monster-loot.xml" />
+		<file name="trade-items.xml" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/trade-items.xml" />
 		<file name="items-miscellaneous.xml" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/items-miscellaneous.xml" />
 	</files>
 </index>
