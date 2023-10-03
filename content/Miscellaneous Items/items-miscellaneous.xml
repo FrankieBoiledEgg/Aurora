@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="https://github.com/FrankieBoiledEgg">FrankieBoiledEgg</author>
 		<update version="0.1.0">
-			<file name="items-miscellaneous.xml" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/items-miscellaneous.xml" />
+			<file name="items-miscellaneous.xml" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/items-miscellaneous.xml" />
 		</update>
 	</info>
     <!--Monster Loot-->
@@ -15,7 +15,7 @@
 		</description>
 		<setters>
 			<set name="category">Monster Loot</set>
-			<set name="cost" currency="gp">0.25</set>
+			<set name="cost" currency="sp">5</set>
 			<set name="weight" lb="0.25">0.25 lb.</set>
 			<set name="stackable">true</set>
 		</setters>
@@ -27,7 +27,7 @@
         </description>
         <setters>
             <set name="category">Trade Items</set>
-            <set name="cost" currency="gp">1</set>
+            <set name="cost" currency="gp">1 lb</set>
             <set name="weight" lb="2">2</set>
             <set name="stackable">true</set>
         </setters>
@@ -38,8 +38,8 @@
         </description>
         <setters>
             <set name="category">Trade Items</set>
-            <set name="cost" currency="gp">0.5</set>
-            <set name="weight" lb="1">1</set>
+            <set name="cost" currency="sp">1</set>
+            <set name="weight" lb="1">1 lb</set>
             <set name="stackable">true</set>
         </setters>
     </element>
@@ -51,7 +51,7 @@
         <setters>
             <set name="category">Miscellaneous Items</set>
             <set name="cost" currency="gp">1</set>
-            <set name="weight" lb="0.1">0.1</set>
+            <set name="weight" lb="0.1">0.1 lb</set>
             <set name="stackable">true</set>
         </setters>
     </element>
