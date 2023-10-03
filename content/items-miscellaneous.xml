@@ -55,7 +55,7 @@
             <set name="stackable">true</set>
         </setters>
     </element>
-    <!--TEMPLATE-->
+    <!--TEMPLATE
     <element name="XXXXX" type="Item" source="Companions of Sildar" id="ID_FBE_COS_ITEM_XXXXX">
         <description>
             <p></p>
@@ -67,5 +67,5 @@
             <set name="stackable">XXXX</set>
         </setters>
     </element>
-    <!---->
+    -->
 </elements>
