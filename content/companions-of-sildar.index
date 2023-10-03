@@ -9,8 +9,8 @@
 		</update>
 	</info>
 	<files>
-		<file name="monster-loot.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/monster-loot.index" />
-		<file name="trade-items.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/trade-items.index" />
-		<file name="items-miscellaneous.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/Miscellaneous%20Items/items-miscellaneous.index" />
+		<file name="monster-loot.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/monster-loot.index" />
+		<file name="trade-items.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/trade-items.index" />
+		<file name="items-miscellaneous.index" url="https://raw.githubusercontent.com/FrankieBoiledEgg/Companions-of-Sildar/main/content/items-miscellaneous.index" />
 	</files>
 </index>
